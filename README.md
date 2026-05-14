@@ -235,20 +235,6 @@ Designed and deployed a HIPAA-aware medical Retrieval-Augmented Generation chatb
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thirumalreddy24&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thirumalreddy24&layout=compact&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thirumalreddy24&theme=tokyonight"/>
-
-</div>
-
----
-
 # 📈 Current Focus
 
 ```yaml
